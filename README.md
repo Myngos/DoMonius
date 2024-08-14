@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mingos
 - 👀 I’m interested in Web Development and AI
-- 🌱 I’m currently learning Full Stack 
+- 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on anything related to Web Dev and AI
 - 📫 moniusdomingo065@gmail.com
 
