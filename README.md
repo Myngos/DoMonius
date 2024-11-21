@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mingos
 - 👀 I’m interested in Web Development and AI
-- 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on anything related to Web Dev and AI
+- 🌱 I’m currently learning C# 
+- 💞️ I’m looking to collaborate on anything Web Dev or AI
 - 📫 moniusdomingo065@gmail.com
 
 
